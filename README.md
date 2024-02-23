@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AndreaMarchioni
-- 👀 I’m interested in Learning coding
+- 👀 I’m interested in learning to code
 - 🌱 I’m currently learning Python
 - 📫 How to reach me a.marchioni@outlook.com
 
